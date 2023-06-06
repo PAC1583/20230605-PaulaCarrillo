@@ -1,0 +1,7 @@
+git clone
+git add
+git commmit
+git push 
+git branch <name>
+git checkout <branchname>
+
